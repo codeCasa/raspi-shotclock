@@ -1,0 +1,12 @@
+pyside6
+pyqt6
+watchdog
+qtawesome
+scipy
+numpy
+sounddevice
+librosa
+pandas
+openpyxl
+PyQt6-Charts
+matplotlib

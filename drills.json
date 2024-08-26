@@ -1,0 +1,8 @@
+[{
+    "name": "Bill Drill",
+    "distanceFromTarget": 7,
+    "numberOfShots": 6,
+    "description": "Some description of the drill",
+    "timerCountDown": 3,
+    "shotCadence": null
+}]
